@@ -13,7 +13,7 @@ const App = () => {
 
   return (
     <div>
-      <p>You've been on this page for {mount} seconds</p>
+      <p>You\'ve been on this page for {mount} seconds.</p>
     </div>
   );
 };
